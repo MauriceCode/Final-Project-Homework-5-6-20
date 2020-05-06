@@ -1,0 +1,57 @@
+/* Maurice: mauricemoore.fit@gmail.com*/
+body {
+    background-color: rgb(  32 178 170 );
+    background-image: -webkit-linear-gradient(left, lightGreen, yellow);
+    background-image: -moz-linear-gradient(left, lightGreen, yellow);
+    background-image: -o-linear-gradient(left, red, yellow);
+    background-image: linear-gradient(to right, lightGreen, yellow);
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+     user-select: none;
+     -o-user-select: none;
+  }
+  
+  h1 {
+    color: rgb( 225 255 225 );
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black;
+  }
+  
+  h2 {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  
+  article {
+    text-align: left;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+  
+  a {
+    background-color: rgb(173 216 230	);
+    border: 1px solid rgb( 0 0 0);
+    border-radius: 5px;
+    box-shadow: 0 1px 1px lightGreen inset 0 1px 0 honey;
+    color: darkGreen;
+    display: block;
+    text-shadow: 0 1px 0 white;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px auto 10px auto;
+    padding: 10px;
+    width: 250px;
+    background-image: -webkit-linear-gradient(bottom, green, yellow);
+  background-image: -moz-linear-gradient(bottom, green, yellow);
+  background-image: -o-linear-gradient(bottom, green, yellow);
+  background-image: linear-gradient(to top, green, yellow);
+  }
+  
+  iframe {
+    background-color: white;
+  }
+  /* Anything I like*/
